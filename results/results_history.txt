@@ -1,0 +1,36 @@
+RecommenderCF-item-item-100k-Count: 2
+RecommenderCF-item-item-100k-Average RMSE: 0.9685
+RecommenderCF-item-item-100k-Average MAE: 0.7590
+RecommenderCF-item-item-100k-Average Time: 1581.4719
+RecommenderCF-user-user-100k-Count: 2
+RecommenderCF-user-user-100k-Average RMSE: 1.1467
+RecommenderCF-user-user-100k-Average MAE: 0.9131
+RecommenderCF-user-user-100k-Average Time: 1088.7604
+RecommenderMF-sgd-100k-Count: 2
+RecommenderMF-sgd-100k-Average RMSE: 0.9253
+RecommenderMF-sgd-100k-Average MAE: 0.7203
+RecommenderMF-sgd-100k-Average Time: 459.8796
+RecommenderMF-sgd-1m-Count: 2
+RecommenderMF-sgd-1m-Average RMSE: 0.8723
+RecommenderMF-sgd-1m-Average MAE: 0.6749
+RecommenderMF-sgd-1m-Average Time: 4858.8248
+RecommenderMF-als-100k-Count: 2
+RecommenderMF-als-100k-Average RMSE: 1.1160
+RecommenderMF-als-100k-Average MAE: 0.8379
+RecommenderMF-als-100k-Average Time: 74.7983
+RecommenderMF-als-1m-Count: 2
+RecommenderMF-als-1m-Average RMSE: 0.8987
+RecommenderMF-als-1m-Average MAE: 0.6907
+RecommenderMF-als-1m-Average Time: 706.9270
+Best RMSE: 0.8719161771551311 (Recommender: RecommenderMF, Variation: sgd, Dataset: 1m)
+Best RMSE Value: 0.8719161771551311
+Best MAE: 0.6745061272913097 (Recommender: RecommenderMF, Variation: sgd, Dataset: 1m)
+Best MAE Value: 0.6745061272913097
+RecommenderCF-item-item-1m-Count: 1
+RecommenderCF-item-item-1m-Average RMSE: 0.9338
+RecommenderCF-item-item-1m-Average MAE: 0.7330
+RecommenderCF-item-item-1m-Average Time: 2709.5373
+RecommenderCF-user-user-1m-Count: 1
+RecommenderCF-user-user-1m-Average RMSE: 1.1330
+RecommenderCF-user-user-1m-Average MAE: 0.8974
+RecommenderCF-user-user-1m-Average Time: 4653.6460
